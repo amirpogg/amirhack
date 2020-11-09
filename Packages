@@ -1,0 +1,16 @@
+Package: com.amirhacks.reprovision
+Version: 0.5.2~EOL
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>= 9.0)
+ Priority: optional
+ Replaces: com.matchstic.Extender-Installer
+ Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Filename: ./debs/com.amirhacks.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391708
+MD5sum: 186d9838dced2dee179746a0d149fc67
+Description: Resign App 
+Name: Reprovision
+Author: amirhack <amirramos39@gmail.com>
+Depiction: https://amirpogg.github.io/amirhack/depictions/?p=com.amirhacks.reprovision
